@@ -1,10 +1,12 @@
-# Running the Blinkist Clone
+# Running the Blinkist Clone Web App
 
 This project is a clone of the [Blinkist Web App](https://www.blinkist.com/) as of June 2021.
 
 # Demo
 
 ## Web App Features
+
+
 
 ## Storybook
 
