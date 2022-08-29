@@ -1,0 +1,12 @@
+
+.timeSection {
+    display:flex;
+}
+.timeText {
+    margin-top: 0.550rem;
+}
+
+.icon {
+    padding-right: 0.5rem;
+    padding-bottom: 0.3rem;
+}

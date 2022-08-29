@@ -1,0 +1,18 @@
+.NavBar {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 4rem;
+    margin-top: 1rem;
+}
+
+.left {
+    display: flex;
+    margin-right: auto;
+}
+
+.profileButton {
+    margin-left:auto;
+}

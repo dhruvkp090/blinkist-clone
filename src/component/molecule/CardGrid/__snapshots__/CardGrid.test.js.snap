@@ -1,0 +1,780 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Snapshot with default image and finished book 1`] = `
+<DocumentFragment>
+  <div
+    class="MuiGrid-root MuiGrid-container MuiGrid-spacing-xs-3"
+  >
+    <div
+      class="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-12 MuiGrid-grid-sm-6 MuiGrid-grid-md-4"
+    >
+      <div
+        class="MuiPaper-root MuiCard-root MuiPaper-elevation1 MuiPaper-rounded"
+      >
+        <img
+          alt="Animal Farm"
+          class="MuiCardMedia-root MuiCardMedia-media MuiCardMedia-img"
+          src="https://images.blinkist.com/images/books/534d4cb46633610007320000/1_1/640.jpg"
+          title="Animal Farm"
+        />
+        <div
+          class="MuiCardContent-root"
+        >
+          <h6
+            class="MuiTypography-root MuiTypography-h6 MuiTypography-gutterBottom"
+          >
+            Animal Farm
+          </h6>
+          <p
+            class="MuiTypography-root author MuiTypography-body1 MuiTypography-colorSecondary MuiTypography-gutterBottom"
+          >
+            <strong>
+              Gorge Orwell
+            </strong>
+          </p>
+          <div
+            class="timeSection"
+          >
+            <img
+              alt=""
+              class="icon"
+              src="https://d17pjsg7x52x9r.cloudfront.net/assets/components/book_card/clock-b0e2e0235fbe1df824d662b2b3b96611e3711bf5b5c7556b8bd3828720f86dbc.svg"
+            />
+            <p
+              class="MuiTypography-root timeText MuiTypography-body2 MuiTypography-gutterBottom"
+            >
+              20-minute read
+            </p>
+          </div>
+        </div>
+        <div
+          class="MuiCardActions-root MuiCardActions-spacing"
+        >
+          <button
+            class="MuiButtonBase-root MuiButton-root MuiButton-contained MuiButton-containedPrimary MuiButton-fullWidth"
+            role="button"
+            style="justify-content: center;"
+            tabindex="0"
+            type="button"
+          >
+            <span
+              class="MuiButton-label"
+            >
+              <p
+                class="MuiTypography-root MuiTypography-body1"
+              >
+                <strong>
+                  Mark as Finished
+                </strong>
+              </p>
+            </span>
+            <span
+              class="MuiTouchRipple-root"
+            />
+          </button>
+        </div>
+      </div>
+    </div>
+    <div
+      class="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-12 MuiGrid-grid-sm-6 MuiGrid-grid-md-4"
+    >
+      <div
+        class="MuiPaper-root MuiCard-root MuiPaper-elevation1 MuiPaper-rounded"
+      >
+        <img
+          alt="Animal Farm"
+          class="MuiCardMedia-root MuiCardMedia-media MuiCardMedia-img"
+          src="https://images.blinkist.com/images/books/534d4cb46633610007320000/1_1/640.jpg"
+          title="Animal Farm"
+        />
+        <div
+          class="MuiCardContent-root"
+        >
+          <h6
+            class="MuiTypography-root MuiTypography-h6 MuiTypography-gutterBottom"
+          >
+            Animal Farm
+          </h6>
+          <p
+            class="MuiTypography-root author MuiTypography-body1 MuiTypography-colorSecondary MuiTypography-gutterBottom"
+          >
+            <strong>
+              Gorge Orwell
+            </strong>
+          </p>
+          <div
+            class="timeSection"
+          >
+            <img
+              alt=""
+              class="icon"
+              src="https://d17pjsg7x52x9r.cloudfront.net/assets/components/book_card/clock-b0e2e0235fbe1df824d662b2b3b96611e3711bf5b5c7556b8bd3828720f86dbc.svg"
+            />
+            <p
+              class="MuiTypography-root timeText MuiTypography-body2 MuiTypography-gutterBottom"
+            >
+              20-minute read
+            </p>
+          </div>
+        </div>
+        <div
+          class="MuiCardActions-root MuiCardActions-spacing"
+        >
+          <button
+            class="MuiButtonBase-root MuiButton-root MuiButton-contained MuiButton-containedPrimary MuiButton-fullWidth"
+            role="button"
+            style="justify-content: center;"
+            tabindex="0"
+            type="button"
+          >
+            <span
+              class="MuiButton-label"
+            >
+              <p
+                class="MuiTypography-root MuiTypography-body1"
+              >
+                <strong>
+                  Mark as Finished
+                </strong>
+              </p>
+            </span>
+            <span
+              class="MuiTouchRipple-root"
+            />
+          </button>
+        </div>
+      </div>
+    </div>
+    <div
+      class="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-12 MuiGrid-grid-sm-6 MuiGrid-grid-md-4"
+    >
+      <div
+        class="MuiPaper-root MuiCard-root MuiPaper-elevation1 MuiPaper-rounded"
+      >
+        <img
+          alt="Animal Farm"
+          class="MuiCardMedia-root MuiCardMedia-media MuiCardMedia-img"
+          src="https://images.blinkist.com/images/books/534d4cb46633610007320000/1_1/640.jpg"
+          title="Animal Farm"
+        />
+        <div
+          class="MuiCardContent-root"
+        >
+          <h6
+            class="MuiTypography-root MuiTypography-h6 MuiTypography-gutterBottom"
+          >
+            Animal Farm
+          </h6>
+          <p
+            class="MuiTypography-root author MuiTypography-body1 MuiTypography-colorSecondary MuiTypography-gutterBottom"
+          >
+            <strong>
+              Gorge Orwell
+            </strong>
+          </p>
+          <div
+            class="timeSection"
+          >
+            <img
+              alt=""
+              class="icon"
+              src="https://d17pjsg7x52x9r.cloudfront.net/assets/components/book_card/clock-b0e2e0235fbe1df824d662b2b3b96611e3711bf5b5c7556b8bd3828720f86dbc.svg"
+            />
+            <p
+              class="MuiTypography-root timeText MuiTypography-body2 MuiTypography-gutterBottom"
+            >
+              20-minute read
+            </p>
+          </div>
+        </div>
+        <div
+          class="MuiCardActions-root MuiCardActions-spacing"
+        >
+          <button
+            class="MuiButtonBase-root MuiButton-root MuiButton-contained MuiButton-containedPrimary MuiButton-fullWidth"
+            role="button"
+            style="justify-content: center;"
+            tabindex="0"
+            type="button"
+          >
+            <span
+              class="MuiButton-label"
+            >
+              <p
+                class="MuiTypography-root MuiTypography-body1"
+              >
+                <strong>
+                  Mark as Finished
+                </strong>
+              </p>
+            </span>
+            <span
+              class="MuiTouchRipple-root"
+            />
+          </button>
+        </div>
+      </div>
+    </div>
+    <div
+      class="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-12 MuiGrid-grid-sm-6 MuiGrid-grid-md-4"
+    >
+      <div
+        class="MuiPaper-root MuiCard-root MuiPaper-elevation1 MuiPaper-rounded"
+      >
+        <img
+          alt="Animal Farm"
+          class="MuiCardMedia-root MuiCardMedia-media MuiCardMedia-img"
+          src="https://images.blinkist.com/images/books/534d4cb46633610007320000/1_1/640.jpg"
+          title="Animal Farm"
+        />
+        <div
+          class="MuiCardContent-root"
+        >
+          <h6
+            class="MuiTypography-root MuiTypography-h6 MuiTypography-gutterBottom"
+          >
+            Animal Farm
+          </h6>
+          <p
+            class="MuiTypography-root author MuiTypography-body1 MuiTypography-colorSecondary MuiTypography-gutterBottom"
+          >
+            <strong>
+              Gorge Orwell
+            </strong>
+          </p>
+          <div
+            class="timeSection"
+          >
+            <img
+              alt=""
+              class="icon"
+              src="https://d17pjsg7x52x9r.cloudfront.net/assets/components/book_card/clock-b0e2e0235fbe1df824d662b2b3b96611e3711bf5b5c7556b8bd3828720f86dbc.svg"
+            />
+            <p
+              class="MuiTypography-root timeText MuiTypography-body2 MuiTypography-gutterBottom"
+            >
+              20-minute read
+            </p>
+          </div>
+        </div>
+        <div
+          class="MuiCardActions-root MuiCardActions-spacing"
+        >
+          <button
+            class="MuiButtonBase-root MuiButton-root MuiButton-contained MuiButton-containedPrimary MuiButton-fullWidth"
+            role="button"
+            style="justify-content: center;"
+            tabindex="0"
+            type="button"
+          >
+            <span
+              class="MuiButton-label"
+            >
+              <p
+                class="MuiTypography-root MuiTypography-body1"
+              >
+                <strong>
+                  Mark as Finished
+                </strong>
+              </p>
+            </span>
+            <span
+              class="MuiTouchRipple-root"
+            />
+          </button>
+        </div>
+      </div>
+    </div>
+    <div
+      class="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-12 MuiGrid-grid-sm-6 MuiGrid-grid-md-4"
+    >
+      <div
+        class="MuiPaper-root MuiCard-root MuiPaper-elevation1 MuiPaper-rounded"
+      >
+        <img
+          alt="Animal Farm"
+          class="MuiCardMedia-root MuiCardMedia-media MuiCardMedia-img"
+          src="https://images.blinkist.com/images/books/534d4cb46633610007320000/1_1/640.jpg"
+          title="Animal Farm"
+        />
+        <div
+          class="MuiCardContent-root"
+        >
+          <h6
+            class="MuiTypography-root MuiTypography-h6 MuiTypography-gutterBottom"
+          >
+            Animal Farm
+          </h6>
+          <p
+            class="MuiTypography-root author MuiTypography-body1 MuiTypography-colorSecondary MuiTypography-gutterBottom"
+          >
+            <strong>
+              Gorge Orwell
+            </strong>
+          </p>
+          <div
+            class="timeSection"
+          >
+            <img
+              alt=""
+              class="icon"
+              src="https://d17pjsg7x52x9r.cloudfront.net/assets/components/book_card/clock-b0e2e0235fbe1df824d662b2b3b96611e3711bf5b5c7556b8bd3828720f86dbc.svg"
+            />
+            <p
+              class="MuiTypography-root timeText MuiTypography-body2 MuiTypography-gutterBottom"
+            >
+              20-minute read
+            </p>
+          </div>
+        </div>
+        <div
+          class="MuiCardActions-root MuiCardActions-spacing"
+        >
+          <button
+            class="MuiButtonBase-root MuiButton-root MuiButton-contained MuiButton-containedPrimary MuiButton-fullWidth"
+            role="button"
+            style="justify-content: center;"
+            tabindex="0"
+            type="button"
+          >
+            <span
+              class="MuiButton-label"
+            >
+              <p
+                class="MuiTypography-root MuiTypography-body1"
+              >
+                <strong>
+                  Mark as Finished
+                </strong>
+              </p>
+            </span>
+            <span
+              class="MuiTouchRipple-root"
+            />
+          </button>
+        </div>
+      </div>
+    </div>
+    <div
+      class="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-12 MuiGrid-grid-sm-6 MuiGrid-grid-md-4"
+    >
+      <div
+        class="MuiPaper-root MuiCard-root MuiPaper-elevation1 MuiPaper-rounded"
+      >
+        <img
+          alt="Animal Farm"
+          class="MuiCardMedia-root MuiCardMedia-media MuiCardMedia-img"
+          src="https://images.blinkist.com/images/books/534d4cb46633610007320000/1_1/640.jpg"
+          title="Animal Farm"
+        />
+        <div
+          class="MuiCardContent-root"
+        >
+          <h6
+            class="MuiTypography-root MuiTypography-h6 MuiTypography-gutterBottom"
+          >
+            Animal Farm
+          </h6>
+          <p
+            class="MuiTypography-root author MuiTypography-body1 MuiTypography-colorSecondary MuiTypography-gutterBottom"
+          >
+            <strong>
+              Gorge Orwell
+            </strong>
+          </p>
+          <div
+            class="timeSection"
+          >
+            <img
+              alt=""
+              class="icon"
+              src="https://d17pjsg7x52x9r.cloudfront.net/assets/components/book_card/clock-b0e2e0235fbe1df824d662b2b3b96611e3711bf5b5c7556b8bd3828720f86dbc.svg"
+            />
+            <p
+              class="MuiTypography-root timeText MuiTypography-body2 MuiTypography-gutterBottom"
+            >
+              20-minute read
+            </p>
+          </div>
+        </div>
+        <div
+          class="MuiCardActions-root MuiCardActions-spacing"
+        >
+          <button
+            class="MuiButtonBase-root MuiButton-root MuiButton-contained MuiButton-containedPrimary MuiButton-fullWidth"
+            role="button"
+            style="justify-content: center;"
+            tabindex="0"
+            type="button"
+          >
+            <span
+              class="MuiButton-label"
+            >
+              <p
+                class="MuiTypography-root MuiTypography-body1"
+              >
+                <strong>
+                  Mark as Finished
+                </strong>
+              </p>
+            </span>
+            <span
+              class="MuiTouchRipple-root"
+            />
+          </button>
+        </div>
+      </div>
+    </div>
+    <div
+      class="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-12 MuiGrid-grid-sm-6 MuiGrid-grid-md-4"
+    >
+      <div
+        class="MuiPaper-root MuiCard-root MuiPaper-elevation1 MuiPaper-rounded"
+      >
+        <img
+          alt="Animal Farm"
+          class="MuiCardMedia-root MuiCardMedia-media MuiCardMedia-img"
+          src="https://images.blinkist.com/images/books/534d4cb46633610007320000/1_1/640.jpg"
+          title="Animal Farm"
+        />
+        <div
+          class="MuiCardContent-root"
+        >
+          <h6
+            class="MuiTypography-root MuiTypography-h6 MuiTypography-gutterBottom"
+          >
+            Animal Farm
+          </h6>
+          <p
+            class="MuiTypography-root author MuiTypography-body1 MuiTypography-colorSecondary MuiTypography-gutterBottom"
+          >
+            <strong>
+              Gorge Orwell
+            </strong>
+          </p>
+          <div
+            class="timeSection"
+          >
+            <img
+              alt=""
+              class="icon"
+              src="https://d17pjsg7x52x9r.cloudfront.net/assets/components/book_card/clock-b0e2e0235fbe1df824d662b2b3b96611e3711bf5b5c7556b8bd3828720f86dbc.svg"
+            />
+            <p
+              class="MuiTypography-root timeText MuiTypography-body2 MuiTypography-gutterBottom"
+            >
+              20-minute read
+            </p>
+          </div>
+        </div>
+        <div
+          class="MuiCardActions-root MuiCardActions-spacing"
+        >
+          <button
+            class="MuiButtonBase-root MuiButton-root MuiButton-contained MuiButton-containedPrimary MuiButton-fullWidth"
+            role="button"
+            style="justify-content: center;"
+            tabindex="0"
+            type="button"
+          >
+            <span
+              class="MuiButton-label"
+            >
+              <p
+                class="MuiTypography-root MuiTypography-body1"
+              >
+                <strong>
+                  Mark as Finished
+                </strong>
+              </p>
+            </span>
+            <span
+              class="MuiTouchRipple-root"
+            />
+          </button>
+        </div>
+      </div>
+    </div>
+    <div
+      class="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-12 MuiGrid-grid-sm-6 MuiGrid-grid-md-4"
+    >
+      <div
+        class="MuiPaper-root MuiCard-root MuiPaper-elevation1 MuiPaper-rounded"
+      >
+        <img
+          alt="Animal Farm"
+          class="MuiCardMedia-root MuiCardMedia-media MuiCardMedia-img"
+          src="https://images.blinkist.com/images/books/534d4cb46633610007320000/1_1/640.jpg"
+          title="Animal Farm"
+        />
+        <div
+          class="MuiCardContent-root"
+        >
+          <h6
+            class="MuiTypography-root MuiTypography-h6 MuiTypography-gutterBottom"
+          >
+            Animal Farm
+          </h6>
+          <p
+            class="MuiTypography-root author MuiTypography-body1 MuiTypography-colorSecondary MuiTypography-gutterBottom"
+          >
+            <strong>
+              Gorge Orwell
+            </strong>
+          </p>
+          <div
+            class="timeSection"
+          >
+            <img
+              alt=""
+              class="icon"
+              src="https://d17pjsg7x52x9r.cloudfront.net/assets/components/book_card/clock-b0e2e0235fbe1df824d662b2b3b96611e3711bf5b5c7556b8bd3828720f86dbc.svg"
+            />
+            <p
+              class="MuiTypography-root timeText MuiTypography-body2 MuiTypography-gutterBottom"
+            >
+              20-minute read
+            </p>
+          </div>
+        </div>
+        <div
+          class="MuiCardActions-root MuiCardActions-spacing"
+        >
+          <button
+            class="MuiButtonBase-root MuiButton-root MuiButton-contained MuiButton-containedPrimary MuiButton-fullWidth"
+            role="button"
+            style="justify-content: center;"
+            tabindex="0"
+            type="button"
+          >
+            <span
+              class="MuiButton-label"
+            >
+              <p
+                class="MuiTypography-root MuiTypography-body1"
+              >
+                <strong>
+                  Mark as Finished
+                </strong>
+              </p>
+            </span>
+            <span
+              class="MuiTouchRipple-root"
+            />
+          </button>
+        </div>
+      </div>
+    </div>
+    <div
+      class="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-12 MuiGrid-grid-sm-6 MuiGrid-grid-md-4"
+    >
+      <div
+        class="MuiPaper-root MuiCard-root MuiPaper-elevation1 MuiPaper-rounded"
+      >
+        <img
+          alt="Animal Farm"
+          class="MuiCardMedia-root MuiCardMedia-media MuiCardMedia-img"
+          src="https://images.blinkist.com/images/books/534d4cb46633610007320000/1_1/640.jpg"
+          title="Animal Farm"
+        />
+        <div
+          class="MuiCardContent-root"
+        >
+          <h6
+            class="MuiTypography-root MuiTypography-h6 MuiTypography-gutterBottom"
+          >
+            Animal Farm
+          </h6>
+          <p
+            class="MuiTypography-root author MuiTypography-body1 MuiTypography-colorSecondary MuiTypography-gutterBottom"
+          >
+            <strong>
+              Gorge Orwell
+            </strong>
+          </p>
+          <div
+            class="timeSection"
+          >
+            <img
+              alt=""
+              class="icon"
+              src="https://d17pjsg7x52x9r.cloudfront.net/assets/components/book_card/clock-b0e2e0235fbe1df824d662b2b3b96611e3711bf5b5c7556b8bd3828720f86dbc.svg"
+            />
+            <p
+              class="MuiTypography-root timeText MuiTypography-body2 MuiTypography-gutterBottom"
+            >
+              20-minute read
+            </p>
+          </div>
+        </div>
+        <div
+          class="MuiCardActions-root MuiCardActions-spacing"
+        >
+          <button
+            class="MuiButtonBase-root MuiButton-root MuiButton-contained MuiButton-containedPrimary MuiButton-fullWidth"
+            role="button"
+            style="justify-content: center;"
+            tabindex="0"
+            type="button"
+          >
+            <span
+              class="MuiButton-label"
+            >
+              <p
+                class="MuiTypography-root MuiTypography-body1"
+              >
+                <strong>
+                  Mark as Finished
+                </strong>
+              </p>
+            </span>
+            <span
+              class="MuiTouchRipple-root"
+            />
+          </button>
+        </div>
+      </div>
+    </div>
+    <div
+      class="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-12 MuiGrid-grid-sm-6 MuiGrid-grid-md-4"
+    >
+      <div
+        class="MuiPaper-root MuiCard-root MuiPaper-elevation1 MuiPaper-rounded"
+      >
+        <img
+          alt="Animal Farm"
+          class="MuiCardMedia-root MuiCardMedia-media MuiCardMedia-img"
+          src="https://images.blinkist.com/images/books/534d4cb46633610007320000/1_1/640.jpg"
+          title="Animal Farm"
+        />
+        <div
+          class="MuiCardContent-root"
+        >
+          <h6
+            class="MuiTypography-root MuiTypography-h6 MuiTypography-gutterBottom"
+          >
+            Animal Farm
+          </h6>
+          <p
+            class="MuiTypography-root author MuiTypography-body1 MuiTypography-colorSecondary MuiTypography-gutterBottom"
+          >
+            <strong>
+              Gorge Orwell
+            </strong>
+          </p>
+          <div
+            class="timeSection"
+          >
+            <img
+              alt=""
+              class="icon"
+              src="https://d17pjsg7x52x9r.cloudfront.net/assets/components/book_card/clock-b0e2e0235fbe1df824d662b2b3b96611e3711bf5b5c7556b8bd3828720f86dbc.svg"
+            />
+            <p
+              class="MuiTypography-root timeText MuiTypography-body2 MuiTypography-gutterBottom"
+            >
+              20-minute read
+            </p>
+          </div>
+        </div>
+        <div
+          class="MuiCardActions-root MuiCardActions-spacing"
+        >
+          <button
+            class="MuiButtonBase-root MuiButton-root MuiButton-contained MuiButton-containedPrimary MuiButton-fullWidth"
+            role="button"
+            style="justify-content: center;"
+            tabindex="0"
+            type="button"
+          >
+            <span
+              class="MuiButton-label"
+            >
+              <p
+                class="MuiTypography-root MuiTypography-body1"
+              >
+                <strong>
+                  Mark as Finished
+                </strong>
+              </p>
+            </span>
+            <span
+              class="MuiTouchRipple-root"
+            />
+          </button>
+        </div>
+      </div>
+    </div>
+    <div
+      class="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-12 MuiGrid-grid-sm-6 MuiGrid-grid-md-4"
+    >
+      <div
+        class="MuiPaper-root MuiCard-root MuiPaper-elevation1 MuiPaper-rounded"
+      >
+        <img
+          alt="1984"
+          class="MuiCardMedia-root MuiCardMedia-media MuiCardMedia-img"
+          src="https://images.blinkist.com/images/books/534d4cb46633610007320000/1_1/640.jpg"
+          title="1984"
+        />
+        <div
+          class="MuiCardContent-root"
+        >
+          <h6
+            class="MuiTypography-root MuiTypography-h6 MuiTypography-gutterBottom"
+          >
+            1984
+          </h6>
+          <p
+            class="MuiTypography-root author MuiTypography-body1 MuiTypography-colorSecondary MuiTypography-gutterBottom"
+          >
+            <strong>
+              Gorge Orwell
+            </strong>
+          </p>
+          <div
+            class="timeSection"
+          >
+            <img
+              alt=""
+              class="icon"
+              src="https://d17pjsg7x52x9r.cloudfront.net/assets/components/book_card/clock-b0e2e0235fbe1df824d662b2b3b96611e3711bf5b5c7556b8bd3828720f86dbc.svg"
+            />
+            <p
+              class="MuiTypography-root timeText MuiTypography-body2 MuiTypography-gutterBottom"
+            >
+              20-minute read
+            </p>
+          </div>
+        </div>
+        <div
+          class="MuiCardActions-root MuiCardActions-spacing"
+        >
+          <button
+            class="MuiButtonBase-root MuiButton-root MuiButton-contained MuiButton-containedPrimary MuiButton-fullWidth"
+            role="button"
+            style="justify-content: center;"
+            tabindex="0"
+            type="button"
+          >
+            <span
+              class="MuiButton-label"
+            >
+              <p
+                class="MuiTypography-root MuiTypography-body1"
+              >
+                <strong>
+                  Mark as Finished
+                </strong>
+              </p>
+            </span>
+            <span
+              class="MuiTouchRipple-root"
+            />
+          </button>
+        </div>
+      </div>
+    </div>
+  </div>
+</DocumentFragment>
+`;

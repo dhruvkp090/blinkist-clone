@@ -1,0 +1,507 @@
+{
+  "category": [
+    {
+      "id": 1,
+      "name": "Entrepreneurship"
+    },
+    {
+      "id": 2,
+      "name": "Science"
+    },
+    {
+      "id": 3,
+      "name": "Economics"
+    },
+    {
+      "id": 4,
+      "name": "Politics"
+    },
+    {
+      "id": 5,
+      "name": "History"
+    },
+    {
+      "id": 6,
+      "name": "Marketing & Sales"
+    },
+    {
+      "id": 7,
+      "name": "Motivation"
+    },
+    {
+      "id": 8,
+      "name": "Test"
+    },
+    {
+      "id": 9,
+      "name": "Philosophy"
+    },
+    {
+      "id": 10,
+      "name": "Money"
+    }
+  ],
+  "allBooks": [
+    {
+      "id": 4,
+      "bookTitle": "The Bully Pulpit",
+      "bookAuthor": "Doris Kearns Goodwin",
+      "bookDuration": "19",
+      "category": {
+        "id": 4,
+        "name": "Politics"
+      },
+      "img": "https://images.blinkist.com/images/books/608aa9b16cee070007228a70/1_1/640.jpg"
+    },
+    {
+      "id": 5,
+      "bookTitle": "ROI in Marketing",
+      "bookAuthor": "Jack Phillips",
+      "bookDuration": "12",
+      "category": {
+        "id": 10,
+        "name": "Money"
+      },
+      "img": "https://images.blinkist.com/images/books/6014114b6cee070008ada76e/1_1/640.jpg"
+    },
+    {
+      "id": 6,
+      "bookTitle": "Sales EQ",
+      "bookAuthor": "Jeb Blount",
+      "bookDuration": "13",
+      "category": {
+        "id": 10,
+        "name": "Money"
+      },
+      "img": "https://images.blinkist.com/images/books/6064bf2d6cee070007018112/1_1/640.jpg"
+    },
+    {
+      "id": 7,
+      "bookTitle": "Genesis",
+      "bookAuthor": "Guido Tonelli",
+      "bookDuration": "12",
+      "category": {
+        "id": 2,
+        "name": "Science"
+      },
+      "img": "https://images.blinkist.com/images/books/608bcaf36cee07000722912e/1_1/640.jpg"
+    },
+    {
+      "id": 8,
+      "bookTitle": "Wiser",
+      "bookAuthor": "Dilip Jeste, MD, with Scott LaFee",
+      "bookDuration": "12",
+      "category": {
+        "id": 2,
+        "name": "Science"
+      },
+      "img": "https://images.blinkist.com/images/books/60827f886cee0700072c7be4/1_1/640.jpg"
+    },
+    {
+      "bookTitle": "Test 3",
+      "bookAuthor": "Tilak",
+      "bookDuration": "2000",
+      "category": {
+        "id": 8,
+        "name": "Test"
+      },
+      "id": 11,
+      "img": "https://images.blinkist.com/images/books/602e66826cee070007cf21cc/1_1/470.jpg"
+    },
+    {
+      "bookTitle": "Test 4",
+      "bookAuthor": "Nishant",
+      "bookDuration": "200000",
+      "category": {
+        "id": 8,
+        "name": "Test"
+      },
+      "id": 12,
+      "img": "https://images.blinkist.com/images/books/602e66826cee070007cf21cc/1_1/470.jpg"
+    },
+    {
+      "bookTitle": "Test 6",
+      "bookAuthor": "Random",
+      "bookDuration": "3000",
+      "category": {
+        "id": 8,
+        "name": "Test"
+      },
+      "id": 13,
+      "img": "https://images.blinkist.com/images/books/602e66826cee070007cf21cc/1_1/470.jpg"
+    },
+    {
+      "bookTitle": "The Psychology of Money",
+      "bookAuthor": "Morgan Housel",
+      "bookDuration": "12",
+      "category": {
+        "id": 10,
+        "name": "Money"
+      },
+      "id": 14,
+      "img": "https://images.blinkist.com/images/books/60140e9d6cee070007f4833a/1_1/640.jpg"
+    },
+    {
+      "bookTitle": "Test 200",
+      "bookAuthor": "Dhruv",
+      "bookDuration": "20",
+      "category": {
+        "id": 8,
+        "name": "Test"
+      },
+      "id": 15,
+      "img": "https://images.blinkist.com/images/books/6014114b6cee070008ada76e/1_1/640.jpg"
+    },
+    {
+      "bookTitle": "Test 3000",
+      "bookAuthor": "Iron Man",
+      "bookDuration": "3000",
+      "category": {
+        "id": 8,
+        "name": "Test"
+      },
+      "id": 16,
+      "img": "https://images.blinkist.com/images/books/6014114b6cee070008ada76e/1_1/640.jpg"
+    },
+    {
+      "bookTitle": "Test 500",
+      "bookAuthor": "Dhruv",
+      "bookDuration": "89",
+      "category": {
+        "id": 8,
+        "name": "Test"
+      },
+      "id": 17,
+      "img": "https://images.blinkist.com/images/books/6014114b6cee070008ada76e/1_1/640.jpg"
+    },
+    {
+      "bookTitle": "Meditations",
+      "bookAuthor": "Marcus Arelius",
+      "bookDuration": "20",
+      "category": {
+        "id": 9,
+        "name": "Philosophy"
+      },
+      "id": 18,
+      "img": "https://images.blinkist.com/images/books/5713be4f5236f20007c16fa7/1_1/640.jpg"
+    },
+    {
+      "bookTitle": "Test 300067",
+      "bookAuthor": "Dhruv",
+      "bookDuration": "12",
+      "category": {
+        "id": 3,
+        "name": "Economics"
+      },
+      "id": 19,
+      "img": "https://images.blinkist.com/images/books/6014114b6cee070008ada76e/1_1/640.jpg"
+    },
+    {
+      "bookTitle": "Test 50067",
+      "bookAuthor": "Dhruv",
+      "bookDuration": "34",
+      "category": {
+        "id": 5,
+        "name": "History"
+      },
+      "id": 20,
+      "img": "https://images.blinkist.com/images/books/6014114b6cee070008ada76e/1_1/640.jpg"
+    },
+    {
+      "bookTitle": "Check",
+      "bookAuthor": "Chikoo",
+      "bookDuration": "23",
+      "category": {
+        "id": 6,
+        "name": "Marketing & Sales"
+      },
+      "id": 21,
+      "img": "https://images.blinkist.com/images/books/6014114b6cee070008ada76e/1_1/640.jpg"
+    },
+    {
+      "bookTitle": "Test 234",
+      "bookAuthor": "Dhruv",
+      "bookDuration": "23",
+      "category": {
+        "id": 6,
+        "name": "Marketing & Sales"
+      },
+      "id": 22,
+      "img": "https://images.blinkist.com/images/books/602e66826cee070007cf21cc/1_1/470.jpg"
+    },
+    {
+      "bookTitle": "test 345",
+      "bookAuthor": "Ramya",
+      "bookDuration": "20",
+      "category": {
+        "id": 4,
+        "name": "Politics"
+      },
+      "id": 23,
+      "img": "https://images.blinkist.com/images/books/602e66826cee070007cf21cc/1_1/470.jpg"
+    },
+    {
+      "bookTitle": "Test 45",
+      "bookAuthor": "Dhruv",
+      "bookDuration": "13",
+      "category": {
+        "id": 1,
+        "name": "Entrepreneurship"
+      },
+      "img": "https://images.blinkist.com/images/books/602e66826cee070007cf21cc/1_1/470.jpg",
+      "id": 24
+    },
+    {
+      "bookTitle": "Test 56",
+      "bookAuthor": "Dhruv",
+      "bookDuration": "21",
+      "category": {
+        "id": 5,
+        "name": "History"
+      },
+      "img": "https://images.blinkist.com/images/books/602e66826cee070007cf21cc/1_1/470.jpg",
+      "id": 25
+    },
+    {
+      "bookTitle": "Test 20034",
+      "bookAuthor": "Dhruv",
+      "bookDuration": "14",
+      "category": {
+        "id": 1,
+        "name": "Entrepreneurship"
+      },
+      "img": "https://images.blinkist.com/images/books/602e66826cee070007cf21cc/1_1/470.jpg",
+      "id": 26
+    },
+    {
+      "bookTitle": "Dhruv Add Library",
+      "bookAuthor": "Dhruv",
+      "bookDuration": "20",
+      "category": {
+        "id": 7,
+        "name": "Motivation"
+      },
+      "img": "https://images.blinkist.com/images/books/602e66826cee070007cf21cc/1_1/470.jpg",
+      "id": 27
+    },
+    {
+      "bookTitle": "Test Add",
+      "bookAuthor": "Dhruv",
+      "bookDuration": "34",
+      "category": {
+        "id": 4,
+        "name": "Politics"
+      },
+      "img": "https://images.blinkist.com/images/books/602e66826cee070007cf21cc/1_1/470.jpg",
+      "id": 28
+    },
+    {
+      "bookTitle": "Test 34",
+      "bookAuthor": "Tilak",
+      "bookDuration": "12",
+      "category": {
+        "id": 9,
+        "name": "Philosophy"
+      },
+      "img": "https://images.blinkist.com/images/books/602e66826cee070007cf21cc/1_1/470.jpg",
+      "id": 29
+    },
+    {
+      "bookTitle": "Test 5645",
+      "bookAuthor": "Standup",
+      "bookDuration": "125",
+      "category": {
+        "id": 9,
+        "name": "Philosophy"
+      },
+      "img": "https://images.blinkist.com/images/books/602e66826cee070007cf21cc/1_1/470.jpg",
+      "id": 30
+    },
+    {
+      "bookTitle": "Test 300034",
+      "bookAuthor": "Iron Man",
+      "bookDuration": "23",
+      "category": {
+        "id": 4,
+        "name": "Politics"
+      },
+      "img": "https://images.blinkist.com/images/books/602e66826cee070007cf21cc/1_1/470.jpg",
+      "id": 31
+    },
+    {
+      "bookTitle": "Test 1034",
+      "bookAuthor": "Dhruv",
+      "bookDuration": "40",
+      "category": {
+        "id": 3,
+        "name": "Economics"
+      },
+      "img": "https://images.blinkist.com/images/books/602e66826cee070007cf21cc/1_1/470.jpg",
+      "id": 32
+    },
+    {
+      "bookTitle": "Check 364",
+      "bookAuthor": "Dhruv",
+      "bookDuration": "45",
+      "category": {
+        "id": 1,
+        "name": "Entrepreneurship"
+      },
+      "img": "https://images.blinkist.com/images/books/602e66826cee070007cf21cc/1_1/470.jpg",
+      "id": 33
+    },
+    {
+      "bookTitle": "Test 1023",
+      "bookAuthor": "Dhruv",
+      "bookDuration": "12",
+      "category": {
+        "id": 3,
+        "name": "Economics"
+      },
+      "img": "https://images.blinkist.com/images/books/602e66826cee070007cf21cc/1_1/470.jpg",
+      "id": 34
+    },
+    {
+      "bookTitle": "asdfasd",
+      "bookAuthor": "sdfasdf",
+      "bookDuration": "12",
+      "category": {
+        "id": 3,
+        "name": "Economics"
+      },
+      "img": "https://images.blinkist.com/images/books/602e66826cee070007cf21cc/1_1/470.jpg",
+      "id": 35
+    },
+    {
+      "bookTitle": "jhujbujhbwdf we",
+      "bookAuthor": "34edrfge",
+      "bookDuration": "12",
+      "category": {
+        "id": 6,
+        "name": "Marketing & Sales"
+      },
+      "img": "https://images.blinkist.com/images/books/602e66826cee070007cf21cc/1_1/470.jpg",
+      "id": 36
+    },
+    {
+      "bookTitle": "test 345234",
+      "bookAuthor": "Dhruv",
+      "bookDuration": "40",
+      "category": {
+        "id": 2,
+        "name": "Science"
+      },
+      "img": "https://images.blinkist.com/images/books/602e66826cee070007cf21cc/1_1/470.jpg",
+      "id": 37
+    },
+    {
+      "bookTitle": "test cat",
+      "bookAuthor": "cat",
+      "bookDuration": "10",
+      "category": {
+        "id": 3,
+        "name": "Economics"
+      },
+      "img": "https://images.blinkist.com/images/books/602e66826cee070007cf21cc/1_1/470.jpg",
+      "id": 38
+    },
+    {
+      "bookTitle": "Soda",
+      "bookAuthor": "Coke",
+      "bookDuration": "12",
+      "category": {
+        "id": 8,
+        "name": {
+          "id": 8,
+          "name": "Test"
+        }
+      },
+      "img": "https://images.blinkist.com/images/books/602e66826cee070007cf21cc/1_1/470.jpg",
+      "id": 39
+    },
+    {
+      "bookTitle": "Test Dhruv",
+      "bookAuthor": "Dhruv",
+      "bookDuration": "10",
+      "category": {
+        "id": 10,
+        "name": {
+          "id": 10,
+          "name": "Money"
+        }
+      },
+      "img": "https://images.blinkist.com/images/books/602e66826cee070007cf21cc/1_1/470.jpg",
+      "id": 40
+    }
+  ],
+  "myLibrary": [
+    {
+      "id": 26,
+      "isFinished": true
+    },
+    {
+      "id": 7,
+      "isFinished": true
+    },
+    {
+      "id": 8,
+      "isFinished": false
+    },
+    {
+      "id": 27,
+      "isFinished": false
+    },
+    {
+      "id": 25,
+      "isFinished": true
+    },
+    {
+      "id": 11,
+      "isFinished": true
+    },
+    {
+      "id": 24,
+      "isFinished": false
+    },
+    {
+      "id": 13,
+      "isFinished": true
+    },
+    {
+      "id": 20,
+      "isFinished": true
+    },
+    {
+      "id": 31,
+      "isFinished": true
+    },
+    {
+      "id": 16,
+      "isFinished": false
+    },
+    {
+      "id": 15,
+      "isFinished": true
+    },
+    {
+      "id": 32,
+      "isFinished": true
+    },
+    {
+      "id": 33,
+      "isFinished": true
+    },
+    {
+      "id": 34,
+      "isFinished": true
+    },
+    {
+      "id": 18,
+      "isFinished": false
+    },
+    {
+      "id": 40,
+      "isFinished": true
+    }
+  ]
+}

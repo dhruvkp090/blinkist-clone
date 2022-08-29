@@ -1,0 +1,147 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Normal button 1`] = `
+<DocumentFragment>
+  <button
+    class="MuiButtonBase-root MuiButton-root MuiButton-text"
+    role="button"
+    style="justify-content: center;"
+    tabindex="0"
+    type="button"
+  >
+    <span
+      class="MuiButton-label"
+    >
+      Test
+    </span>
+    <span
+      class="MuiTouchRipple-root"
+    />
+  </button>
+</DocumentFragment>
+`;
+
+exports[`Snapshot for big logo 1`] = `
+<DocumentFragment>
+  <button
+    class="MuiButtonBase-root MuiButton-root MuiButton-text"
+    logosize="big"
+    role="button"
+    style="justify-content: center;"
+    tabindex="0"
+    type="button"
+  >
+    <span
+      class="MuiButton-label"
+    >
+      <img
+        alt="large logo"
+        src="big.svg"
+        style="display: block; min-width: 9rem;"
+      />
+    </span>
+    <span
+      class="MuiTouchRipple-root"
+    />
+  </button>
+</DocumentFragment>
+`;
+
+exports[`Snapshot for down arrow 1`] = `
+<DocumentFragment>
+  <button
+    aria-label="Test"
+    class="MuiButtonBase-root MuiButton-root MuiButton-text"
+    data-testid="icon-button"
+    endiconneeded="more"
+    role="button"
+    tabindex="0"
+    type="button"
+  >
+    <span
+      class="MuiButton-label"
+    >
+      Test
+      <span
+        class="MuiButton-endIcon MuiButton-iconSizeMedium"
+      >
+        <svg
+          aria-hidden="true"
+          class="MuiSvgIcon-root"
+          focusable="false"
+          viewBox="0 0 24 24"
+        >
+          <path
+            d="M16.59 8.59L12 13.17 7.41 8.59 6 10l6 6 6-6z"
+          />
+        </svg>
+      </span>
+    </span>
+    <span
+      class="MuiTouchRipple-root"
+    />
+  </button>
+</DocumentFragment>
+`;
+
+exports[`Snapshot for small logo 1`] = `
+<DocumentFragment>
+  <button
+    class="MuiButtonBase-root MuiButton-root MuiButton-text"
+    logosize="small"
+    role="button"
+    style="justify-content: center;"
+    tabindex="0"
+    type="button"
+  >
+    <span
+      class="MuiButton-label"
+    >
+      <img
+        alt="small logo"
+        src="small.svg"
+      />
+    </span>
+    <span
+      class="MuiTouchRipple-root"
+    />
+  </button>
+</DocumentFragment>
+`;
+
+exports[`Snapshot for up arrow 1`] = `
+<DocumentFragment>
+  <button
+    aria-label="Test"
+    class="MuiButtonBase-root MuiButton-root MuiButton-text"
+    data-testid="icon-button"
+    endiconneeded="more"
+    role="button"
+    tabindex="0"
+    type="button"
+  >
+    <span
+      class="MuiButton-label"
+    >
+      Test
+      <span
+        class="MuiButton-endIcon MuiButton-iconSizeMedium"
+      >
+        <svg
+          aria-hidden="true"
+          class="MuiSvgIcon-root"
+          focusable="false"
+          viewBox="0 0 24 24"
+        >
+          <path
+            d="M12 8l-6 6 1.41 1.41L12 10.83l4.59 4.58L18 14z"
+          />
+        </svg>
+      </span>
+    </span>
+    <span
+      class="MuiTouchRipple-root"
+    />
+  </button>
+</DocumentFragment>
+`;
